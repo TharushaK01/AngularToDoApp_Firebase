@@ -3,27 +3,31 @@
 
 Welcome to the **Angular ToDo App**, an intuitive and feature-packed to-do list manager integrated with Firebase. This project is designed to help users stay organized and keep track of their daily tasks with ease.
 
-![ToDo App Preview](link-to-screenshot)
+
 
 ## 🚀 Features
 
-- 🗒️ **Add, Edit & Delete Tasks** — Easily manage your to-do items with CRUD operations.
-- 🏷️ **Mark Tasks as Completed** — Keep track of completed and pending tasks.
-- 🔄 **Real-time Updates** — All changes are synced in real-time with Firebase.
-- 🔥 **Firebase Integration** — Secure and fast cloud database for storing tasks.
-- 📱 **Responsive Design** — Works seamlessly across different devices.
-- 🔐 **Authentication** — Log in to save your tasks securely (if applicable).
+- 🗒️ **Add, Edit & Delete Tasks** - Easily manage your to-do items with CRUD operations.
+- 🏷️ **Mark Tasks as Completed** - Keep track of completed and pending tasks.
+- 🔄 **Real-time Updates** - All changes are synced in real-time with Firebase.
+- 🔥 **Firebase Integration** - Secure and fast cloud database for storing tasks.
+- 📱 **Responsive Design** - Works seamlessly across different devices.
+- 🔐 **Authentication** - Log in to save your tasks securely (if applicable).
 
 ## 🛠️ Technologies Used
 
-- **Angular** — Component-based web framework for building scalable applications.
-- **Firebase** — Cloud-hosted NoSQL database for real-time data syncing.
-- **TypeScript** — Static typing for better code quality and maintenance.
-- **HTML5 & CSS3** — Responsive and visually appealing user interface.
+- **Angular** - Component-based web framework for building scalable applications.
+- **Firebase** - Cloud-hosted NoSQL database for real-time data syncing.
+- **TypeScript** - Static typing for better code quality and maintenance.
+- **HTML5 & CSS3** - Responsive and visually appealing user interface.
 
 ## 🔗 Live Demo
 
-Check out the live version of the app [here](#).
+
+
+https://github.com/user-attachments/assets/a8b3a43b-a8b6-4d9d-9944-53a3ee9f2f86
+
+
 
 ## 📂 Installation & Setup
 
@@ -52,11 +56,8 @@ Check out the live version of the app [here](#).
 
 6. **Open your browser** and go to `http://localhost:4200` to start using the app.
 
-## 🖼️ Preview
 
-Add screenshots or GIFs to showcase the functionality of the ToDo app.
 
-![ToDo App Screenshot](link-to-another-screenshot)
 
 ## 🌟 Contributing
 
@@ -82,6 +83,6 @@ We welcome contributions to improve the app. To contribute:
 Feel free to reach out with questions or suggestions!
 
 - **Author**: Tharusha K  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [tharushakavinda01@gmail.com](tharushakavinda01@gmail.com)
 
 ---
